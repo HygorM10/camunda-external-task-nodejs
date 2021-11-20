@@ -1,0 +1,15 @@
+{
+  "name": "external-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hygor Martins",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "camunda-external-task-client-js": "^2.1.0"
+  }
+}
